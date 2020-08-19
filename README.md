@@ -1,4 +1,4 @@
-# Simple Project
+# Simple Project  
  > This is a simple project to demonstrate how to build a simple Flask RESTful API with Docker-Compose.
 
 <img src="images/Homepage.png" align="center"/>
